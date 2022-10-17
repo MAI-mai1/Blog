@@ -9,5 +9,5 @@ Welcome to myblog's documentation!
 .. toctree::
    :maxdepth: 2
    
-   preface
-   language_introduction
+   preface.rst
+   language_introduction.rst
