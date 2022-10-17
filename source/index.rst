@@ -8,6 +8,6 @@ Welcome to myblog's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
    
-   language_introduction.rst
+   preface
+   language_introduction
